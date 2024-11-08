@@ -1,1 +1,1 @@
-# customer soft-churn-prediction using RFM and Logistic Regression
+# Customer soft-churn-prediction using RFM and Logistic Regression
